@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS tups_db; 
+
+CREATE DATABASE tups_db; 
